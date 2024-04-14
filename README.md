@@ -2,7 +2,7 @@
 
 ## ListadoPersonasApp
 
-This little proyect is about an application that allows saving users in memory.
+This proyect is about an application that allows saving users in memory.
 I put into practice the basics learned in Java language.
 
 > #### What was used
@@ -16,7 +16,7 @@ I put into practice the basics learned in Java language.
 
 ## ListaPersonasApp
 
-Este pequeño proyecto es sobre una aplicación 
+Este proyecto es sobre una aplicación 
 que permite guardar usuarios en memoria en donde
 pongo en practica lo básico aprendido en el lenguaje Java.
 
